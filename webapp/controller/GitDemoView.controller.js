@@ -6,6 +6,7 @@ sap.ui.define([
     return Controller.extend("zgitdemoproj.controller.GitDemoView", {
         onInit() {
             //Version 1.00
+            //Hello
         }
     });
 });

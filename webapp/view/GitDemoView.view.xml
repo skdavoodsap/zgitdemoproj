@@ -4,7 +4,7 @@
     <Page id="page" title="{i18n>title}">
     <VBox>
         <Text text="Welcome to Git Demo Project ...!!!"></Text>
-        <Text text="Version 1.00"></Text>
+        <Text text="Version 1.01"></Text>
     </VBox>
     </Page>
 </mvc:View>
